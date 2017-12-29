@@ -22,5 +22,5 @@
 
 .byebug_history
 
-# Ignore personal settings
-/config/environments/*
+# Ignore ENV variables
+/config/local_env.yml
