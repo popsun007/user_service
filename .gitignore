@@ -21,3 +21,6 @@
 /yarn-error.log
 
 .byebug_history
+
+# Ignore personal settings
+/config/environments/*
