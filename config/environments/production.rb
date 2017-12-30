@@ -1,6 +1,6 @@
 Rails.application.configure do
   # Enable send email to active a user
-  config.action_mailer.default_url_options = { host: 'stark-bayou-27879.herokuapp.com' }
+  config.action_mailer.default_url_options = { host: 'digilock-challenge.herokuapp.com' }
   config.action_mailer.perform_deliveries = true
   config.action_mailer.raise_delivery_errors = true
   config.action_mailer.default :charset => "utf-8"
