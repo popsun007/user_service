@@ -13,6 +13,8 @@ gem 'sqlite3'
 
 # Devise for user authentication
 gem 'devise'
+# Set environment variables
+gem 'figaro'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
